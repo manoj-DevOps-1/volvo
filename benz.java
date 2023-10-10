@@ -4,3 +4,4 @@ source
 code
 update
   some code
+system.print
